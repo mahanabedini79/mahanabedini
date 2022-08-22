@@ -7,6 +7,7 @@
   list-style: none;
   text-decoration: none;
   font-family: 'Josefin Sans', sans-serif;
+ line-height: 50px;
 }
 
 body{
@@ -123,5 +124,10 @@ div{
 }
 #lucas {
   position: relative;
-  left: 250px;
+  height: 420px;
+  margin: 0;
+}
+#sec{
+  position: absolute;
+  width: fit-content;
 }
